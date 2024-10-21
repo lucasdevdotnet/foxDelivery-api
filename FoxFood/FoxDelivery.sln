@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoxDelivery.Dominio", "FoxDelivery.Dominio\FoxDelivery.Dominio.csproj", "{041E8509-C659-4D92-B8AD-26CAF409BFC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoxDelivery.Dominio", "FoxDelivery.Dominio\FoxDelivery.Dominio.csproj", "{041E8509-C659-4D92-B8AD-26CAF409BFC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoxDelivery.Data", "FoxDelivery.Data\FoxDelivery.Data.csproj", "{D3BCE50C-2291-43EF-A887-43D78F7EB063}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoxDelivery.Data", "FoxDelivery.Data\FoxDelivery.Data.csproj", "{D3BCE50C-2291-43EF-A887-43D78F7EB063}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoxDelivery.WebApi", "FoxDelivery.WebApi\FoxDelivery.WebApi.csproj", "{D092D79E-E6F7-43CF-8182-57BF04DAC4C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoxDelivery.Api", "FoxDelivery.WebApi\FoxDelivery.Api.csproj", "{D092D79E-E6F7-43CF-8182-57BF04DAC4C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

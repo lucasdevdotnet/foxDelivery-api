@@ -1,4 +1,4 @@
-namespace FoxDelivery.WebApi
+namespace FoxDelivery.Api
 {
     public class WeatherForecast
     {

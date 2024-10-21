@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\source\\repos\\FoxFood\\FoxDelivery.WebApi\\FoxDelivery.WebApi.csproj": {}
+    "F:\\foxDelivery-api\\FoxFood\\FoxDelivery.WebApi\\FoxDelivery.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\source\\repos\\FoxFood\\FoxDelivery.WebApi\\FoxDelivery.WebApi.csproj": {
+    "F:\\foxDelivery-api\\FoxFood\\FoxDelivery.WebApi\\FoxDelivery.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\FoxFood\\FoxDelivery.WebApi\\FoxDelivery.WebApi.csproj",
+        "projectUniqueName": "F:\\foxDelivery-api\\FoxFood\\FoxDelivery.WebApi\\FoxDelivery.WebApi.csproj",
         "projectName": "FoxDelivery.WebApi",
-        "projectPath": "C:\\Users\\lucas\\source\\repos\\FoxFood\\FoxDelivery.WebApi\\FoxDelivery.WebApi.csproj",
+        "projectPath": "F:\\foxDelivery-api\\FoxFood\\FoxDelivery.WebApi\\FoxDelivery.WebApi.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\source\\repos\\FoxFood\\FoxDelivery.WebApi\\obj\\",
+        "outputPath": "F:\\foxDelivery-api\\FoxFood\\FoxDelivery.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,9 +46,29 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.9.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.9.0, )"
             }
           },
           "imports": [

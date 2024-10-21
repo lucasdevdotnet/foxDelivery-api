@@ -1,7 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lucas\\source\\repos\\FoxFood\\",
-  "Documents": [],
+  "WorkspaceRootPath": "F:\\foxDelivery-api\\FoxFood\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D092D79E-E6F7-43CF-8182-57BF04DAC4C4}|FoxDelivery.WebApi\\FoxDelivery.WebApi.csproj|f:\\foxdelivery-api\\foxfood\\foxdelivery.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D092D79E-E6F7-43CF-8182-57BF04DAC4C4}|FoxDelivery.WebApi\\FoxDelivery.WebApi.csproj|solutionrelative:foxdelivery.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D092D79E-E6F7-43CF-8182-57BF04DAC4C4}|FoxDelivery.WebApi\\FoxDelivery.Api.csproj|f:\\foxdelivery-api\\foxfood\\foxdelivery.webapi\\foxdelivery.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D092D79E-E6F7-43CF-8182-57BF04DAC4C4}|FoxDelivery.WebApi\\FoxDelivery.Api.csproj|solutionrelative:foxdelivery.webapi\\foxdelivery.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D092D79E-E6F7-43CF-8182-57BF04DAC4C4}|FoxDelivery.WebApi\\FoxDelivery.WebApi.csproj|f:\\foxdelivery-api\\foxfood\\foxdelivery.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D092D79E-E6F7-43CF-8182-57BF04DAC4C4}|FoxDelivery.WebApi\\FoxDelivery.WebApi.csproj|solutionrelative:foxdelivery.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D092D79E-E6F7-43CF-8182-57BF04DAC4C4}|FoxDelivery.WebApi\\FoxDelivery.WebApi.csproj|f:\\foxdelivery-api\\foxfood\\foxdelivery.webapi\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D092D79E-E6F7-43CF-8182-57BF04DAC4C4}|FoxDelivery.WebApi\\FoxDelivery.WebApi.csproj|solutionrelative:foxdelivery.webapi\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D092D79E-E6F7-43CF-8182-57BF04DAC4C4}|FoxDelivery.WebApi\\FoxDelivery.WebApi.csproj|f:\\foxdelivery-api\\foxfood\\foxdelivery.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D092D79E-E6F7-43CF-8182-57BF04DAC4C4}|FoxDelivery.WebApi\\FoxDelivery.WebApi.csproj|solutionrelative:foxdelivery.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D092D79E-E6F7-43CF-8182-57BF04DAC4C4}|FoxDelivery.WebApi\\FoxDelivery.Api.csproj|f:\\foxdelivery-api\\foxfood\\foxdelivery.webapi\\requestdto\\empresarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D092D79E-E6F7-43CF-8182-57BF04DAC4C4}|FoxDelivery.WebApi\\FoxDelivery.Api.csproj|solutionrelative:foxdelivery.webapi\\requestdto\\empresarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D092D79E-E6F7-43CF-8182-57BF04DAC4C4}|FoxDelivery.WebApi\\FoxDelivery.WebApi.csproj|f:\\foxdelivery-api\\foxfood\\foxdelivery.webapi\\modelviews\\empresamodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D092D79E-E6F7-43CF-8182-57BF04DAC4C4}|FoxDelivery.WebApi\\FoxDelivery.WebApi.csproj|solutionrelative:foxdelivery.webapi\\modelviews\\empresamodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 112,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +55,97 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FoxDelivery.Api",
+              "DocumentMoniker": "F:\\foxDelivery-api\\FoxFood\\FoxDelivery.WebApi\\FoxDelivery.Api.csproj",
+              "RelativeDocumentMoniker": "FoxDelivery.WebApi\\FoxDelivery.Api.csproj",
+              "ToolTip": "F:\\foxDelivery-api\\FoxFood\\FoxDelivery.WebApi\\FoxDelivery.Api.csproj",
+              "RelativeToolTip": "FoxDelivery.WebApi\\FoxDelivery.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T18:10:40.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpresaRequestDto.cs",
+              "DocumentMoniker": "F:\\foxDelivery-api\\FoxFood\\FoxDelivery.WebApi\\RequestDto\\EmpresaRequestDto.cs",
+              "RelativeDocumentMoniker": "FoxDelivery.WebApi\\RequestDto\\EmpresaRequestDto.cs",
+              "ToolTip": "F:\\foxDelivery-api\\FoxFood\\FoxDelivery.WebApi\\RequestDto\\EmpresaRequestDto.cs",
+              "RelativeToolTip": "FoxDelivery.WebApi\\RequestDto\\EmpresaRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:10:59.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "F:\\foxDelivery-api\\FoxFood\\FoxDelivery.WebApi\\Startup.cs",
+              "RelativeDocumentMoniker": "FoxDelivery.WebApi\\Startup.cs",
+              "ToolTip": "F:\\foxDelivery-api\\FoxFood\\FoxDelivery.WebApi\\Startup.cs",
+              "RelativeToolTip": "FoxDelivery.WebApi\\Startup.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAgwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:04:37.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "F:\\foxDelivery-api\\FoxFood\\FoxDelivery.WebApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "FoxDelivery.WebApi\\WeatherForecast.cs",
+              "ToolTip": "F:\\foxDelivery-api\\FoxFood\\FoxDelivery.WebApi\\WeatherForecast.cs",
+              "RelativeToolTip": "FoxDelivery.WebApi\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:04:18.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\foxDelivery-api\\FoxFood\\FoxDelivery.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "FoxDelivery.WebApi\\Program.cs",
+              "ToolTip": "F:\\foxDelivery-api\\FoxFood\\FoxDelivery.WebApi\\Program.cs",
+              "RelativeToolTip": "FoxDelivery.WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:04:12.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmpresaModelView.cs",
+              "DocumentMoniker": "F:\\foxDelivery-api\\FoxFood\\FoxDelivery.WebApi\\ModelViews\\EmpresaModelView.cs",
+              "RelativeDocumentMoniker": "FoxDelivery.WebApi\\ModelViews\\EmpresaModelView.cs",
+              "ToolTip": "F:\\foxDelivery-api\\FoxFood\\FoxDelivery.WebApi\\ModelViews\\EmpresaModelView.cs",
+              "RelativeToolTip": "FoxDelivery.WebApi\\ModelViews\\EmpresaModelView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:02:06.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpresaController.cs",
+              "DocumentMoniker": "F:\\foxDelivery-api\\FoxFood\\FoxDelivery.WebApi\\Controllers\\EmpresaController.cs",
+              "RelativeDocumentMoniker": "FoxDelivery.WebApi\\Controllers\\EmpresaController.cs",
+              "ToolTip": "F:\\foxDelivery-api\\FoxFood\\FoxDelivery.WebApi\\Controllers\\EmpresaController.cs",
+              "RelativeToolTip": "FoxDelivery.WebApi\\Controllers\\EmpresaController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB0AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:56:57.749Z",
+              "EditorCaption": ""
             }
           ]
         },

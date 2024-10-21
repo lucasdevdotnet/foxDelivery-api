@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\FoxFood\\FoxDelivery.Dominio\\FoxDelivery.Dominio.csproj",
+      "projectUniqueName": "F:\\foxDelivery-api\\FoxFood\\FoxDelivery.Dominio\\FoxDelivery.Dominio.csproj",
       "projectName": "FoxDelivery.Dominio",
-      "projectPath": "C:\\Users\\lucas\\source\\repos\\FoxFood\\FoxDelivery.Dominio\\FoxDelivery.Dominio.csproj",
+      "projectPath": "F:\\foxDelivery-api\\FoxFood\\FoxDelivery.Dominio\\FoxDelivery.Dominio.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\source\\repos\\FoxFood\\FoxDelivery.Dominio\\obj\\",
+      "outputPath": "F:\\foxDelivery-api\\FoxFood\\FoxDelivery.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
