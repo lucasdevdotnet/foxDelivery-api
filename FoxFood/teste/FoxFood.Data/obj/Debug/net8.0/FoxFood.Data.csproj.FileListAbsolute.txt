@@ -1,0 +1,5 @@
+C:\Users\lucas\source\repos\FoxFood\FoxFood.Data\obj\Debug\net8.0\FoxFood.Data.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\FoxFood\FoxFood.Data\obj\Debug\net8.0\FoxFood.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\FoxFood\FoxFood.Data\obj\Debug\net8.0\FoxFood.Data.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\FoxFood\FoxFood.Data\obj\Debug\net8.0\FoxFood.Data.AssemblyInfo.cs
+C:\Users\lucas\source\repos\FoxFood\FoxFood.Data\obj\Debug\net8.0\FoxFood.Data.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yViGVlZb1OWHOeD+PF3XufQW1Xe+KgKinw72CRdOWfY=",
+  "Source": "FoxFood.WebApi",
+  "BasePath": "_content/FoxFood.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

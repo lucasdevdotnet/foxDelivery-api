@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lfpFwaNwB/XOUT1gmun+SVz4/6lx13VgYxnh47kibh0=",
+  "Source": "FoxDelivery.WebApi",
+  "BasePath": "_content/FoxDelivery.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

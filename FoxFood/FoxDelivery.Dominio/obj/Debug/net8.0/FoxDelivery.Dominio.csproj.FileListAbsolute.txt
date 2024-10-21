@@ -1,0 +1,4 @@
+C:\Users\lucas\source\repos\FoxFood\FoxDelivery.Dominio\obj\Debug\net8.0\FoxDelivery.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\FoxFood\FoxDelivery.Dominio\obj\Debug\net8.0\FoxDelivery.Dominio.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\FoxFood\FoxDelivery.Dominio\obj\Debug\net8.0\FoxDelivery.Dominio.AssemblyInfo.cs
+C:\Users\lucas\source\repos\FoxFood\FoxDelivery.Dominio\obj\Debug\net8.0\FoxDelivery.Dominio.csproj.CoreCompileInputs.cache
