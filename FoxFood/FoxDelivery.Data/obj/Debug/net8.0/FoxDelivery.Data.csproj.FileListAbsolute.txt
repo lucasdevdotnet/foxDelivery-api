@@ -1,0 +1,16 @@
+F:\foxDelivery-api\FoxFood\FoxDelivery.Data\bin\Debug\net8.0\FoxDelivery.Data.deps.json
+F:\foxDelivery-api\FoxFood\FoxDelivery.Data\bin\Debug\net8.0\FoxDelivery.Data.dll
+F:\foxDelivery-api\FoxFood\FoxDelivery.Data\bin\Debug\net8.0\FoxDelivery.Data.pdb
+F:\foxDelivery-api\FoxFood\FoxDelivery.Data\bin\Debug\net8.0\FoxDelivery.Dominio.dll
+F:\foxDelivery-api\FoxFood\FoxDelivery.Data\bin\Debug\net8.0\FoxDelivery.Dominio.pdb
+F:\foxDelivery-api\FoxFood\FoxDelivery.Data\obj\Debug\net8.0\FoxDelivery.Data.csproj.AssemblyReference.cache
+F:\foxDelivery-api\FoxFood\FoxDelivery.Data\obj\Debug\net8.0\FoxDelivery.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\foxDelivery-api\FoxFood\FoxDelivery.Data\obj\Debug\net8.0\FoxDelivery.Data.AssemblyInfoInputs.cache
+F:\foxDelivery-api\FoxFood\FoxDelivery.Data\obj\Debug\net8.0\FoxDelivery.Data.AssemblyInfo.cs
+F:\foxDelivery-api\FoxFood\FoxDelivery.Data\obj\Debug\net8.0\FoxDelivery.Data.csproj.CoreCompileInputs.cache
+F:\foxDelivery-api\FoxFood\FoxDelivery.Data\obj\Debug\net8.0\FoxDelivery.Data.sourcelink.json
+F:\foxDelivery-api\FoxFood\FoxDelivery.Data\obj\Debug\net8.0\FoxDeliv.14C50A24.Up2Date
+F:\foxDelivery-api\FoxFood\FoxDelivery.Data\obj\Debug\net8.0\FoxDelivery.Data.dll
+F:\foxDelivery-api\FoxFood\FoxDelivery.Data\obj\Debug\net8.0\refint\FoxDelivery.Data.dll
+F:\foxDelivery-api\FoxFood\FoxDelivery.Data\obj\Debug\net8.0\FoxDelivery.Data.pdb
+F:\foxDelivery-api\FoxFood\FoxDelivery.Data\obj\Debug\net8.0\ref\FoxDelivery.Data.dll
