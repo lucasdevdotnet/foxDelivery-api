@@ -31,8 +31,10 @@ namespace FoxDelivery.Api.Application.v1.Empresa
         {
             try
             {
-                var empresaModelView = new EmpresaModelView { };
-                return Ok(empresaModelView);
+                if (empresaRquestDto == null)
+                    return BadRequest("É necessário preecher empresa");
+
+                return Ok(empresaRquestDto);
             }
    
             catch (Exception ex)
