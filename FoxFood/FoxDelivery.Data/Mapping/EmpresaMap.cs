@@ -50,6 +50,13 @@ namespace FoxDelivery.Data.Mapping
             builder.Property(e => e.RazacaoSocial)
                 .HasMaxLength(100)
                 .HasColumnName("razacaoSocial");
+ 
+            builder.Property(e => e.MotivoBloqueio)
+                .HasMaxLength(100)
+                .HasColumnName("motivoBloqueio");  
+
+            builder.Property(e => e.DataCadastro)
+                .HasColumnName("dataCadastro");
         }
 
     }

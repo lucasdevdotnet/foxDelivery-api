@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FoxDelivery.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bf5bb90140e037d3a347326b8354bd5bf091763")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0afff6185cba6fd2b87ea8d33e1e4f80cf46f96")]
 [assembly: System.Reflection.AssemblyProductAttribute("FoxDelivery.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FoxDelivery.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

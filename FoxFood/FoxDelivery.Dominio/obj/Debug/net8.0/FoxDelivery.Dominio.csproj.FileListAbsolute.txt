@@ -14,3 +14,15 @@ F:\foxDelivery-api\FoxFood\FoxDelivery.Dominio\obj\Debug\net8.0\FoxDelivery.Domi
 F:\foxDelivery-api\FoxFood\FoxDelivery.Dominio\obj\Debug\net8.0\refint\FoxDelivery.Dominio.dll
 F:\foxDelivery-api\FoxFood\FoxDelivery.Dominio\obj\Debug\net8.0\FoxDelivery.Dominio.pdb
 F:\foxDelivery-api\FoxFood\FoxDelivery.Dominio\obj\Debug\net8.0\ref\FoxDelivery.Dominio.dll
+F:\bank-api\FoxFood\FoxDelivery.Dominio\bin\Debug\net8.0\FoxDelivery.Dominio.deps.json
+F:\bank-api\FoxFood\FoxDelivery.Dominio\bin\Debug\net8.0\FoxDelivery.Dominio.dll
+F:\bank-api\FoxFood\FoxDelivery.Dominio\bin\Debug\net8.0\FoxDelivery.Dominio.pdb
+F:\bank-api\FoxFood\FoxDelivery.Dominio\obj\Debug\net8.0\FoxDelivery.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+F:\bank-api\FoxFood\FoxDelivery.Dominio\obj\Debug\net8.0\FoxDelivery.Dominio.AssemblyInfoInputs.cache
+F:\bank-api\FoxFood\FoxDelivery.Dominio\obj\Debug\net8.0\FoxDelivery.Dominio.AssemblyInfo.cs
+F:\bank-api\FoxFood\FoxDelivery.Dominio\obj\Debug\net8.0\FoxDelivery.Dominio.csproj.CoreCompileInputs.cache
+F:\bank-api\FoxFood\FoxDelivery.Dominio\obj\Debug\net8.0\FoxDelivery.Dominio.sourcelink.json
+F:\bank-api\FoxFood\FoxDelivery.Dominio\obj\Debug\net8.0\FoxDelivery.Dominio.dll
+F:\bank-api\FoxFood\FoxDelivery.Dominio\obj\Debug\net8.0\refint\FoxDelivery.Dominio.dll
+F:\bank-api\FoxFood\FoxDelivery.Dominio\obj\Debug\net8.0\FoxDelivery.Dominio.pdb
+F:\bank-api\FoxFood\FoxDelivery.Dominio\obj\Debug\net8.0\ref\FoxDelivery.Dominio.dll

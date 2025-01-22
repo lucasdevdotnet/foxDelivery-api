@@ -13,5 +13,7 @@
         public string Celular { get; set; }
         public string Cnpj { get; set; }
         public string RazacaoSocial { get; set; }
+        public DateTime DataCadastro { get; set; }
+        public string MotivoBloqueio { get; set; }
     }
 }
