@@ -665,11 +665,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\Source\\Repos\\bank\\bank-api\\FoxFood\\FoxDelivery.Data\\FoxDelivery.Data.csproj",
+      "projectUniqueName": "F:\\bank\\bank-api\\FoxFood\\FoxDelivery.Data\\FoxDelivery.Data.csproj",
       "projectName": "FoxDelivery.Data",
-      "projectPath": "C:\\Users\\lucas\\Source\\Repos\\bank\\bank-api\\FoxFood\\FoxDelivery.Data\\FoxDelivery.Data.csproj",
+      "projectPath": "F:\\bank\\bank-api\\FoxFood\\FoxDelivery.Data\\FoxDelivery.Data.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\Source\\Repos\\bank\\bank-api\\FoxFood\\FoxDelivery.Data\\obj\\",
+      "outputPath": "F:\\bank\\bank-api\\FoxFood\\FoxDelivery.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -687,8 +687,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\lucas\\Source\\Repos\\bank\\bank-api\\FoxFood\\FoxDelivery.Dominio\\FoxDelivery.Dominio.csproj": {
-              "projectPath": "C:\\Users\\lucas\\Source\\Repos\\bank\\bank-api\\FoxFood\\FoxDelivery.Dominio\\FoxDelivery.Dominio.csproj"
+            "F:\\bank\\bank-api\\FoxFood\\FoxDelivery.Dominio\\FoxDelivery.Dominio.csproj": {
+              "projectPath": "F:\\bank\\bank-api\\FoxFood\\FoxDelivery.Dominio\\FoxDelivery.Dominio.csproj"
             }
           }
         }

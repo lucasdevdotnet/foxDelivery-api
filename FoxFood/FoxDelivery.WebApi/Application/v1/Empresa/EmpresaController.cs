@@ -33,7 +33,7 @@ namespace FoxDelivery.Api.Application.v1.Empresa
                 {
                     qrCode = new
                     {
-                        value = 150.00, // Valor a ser pago
+                        value = 1.00, // Valor a ser pago
                         description = "Pagamento de teste", // Descrição do pagamento
                         scheduleDate = "2025-01-25" // Data de agendamento (se aplicável)
                     }
